@@ -1,5 +1,5 @@
 # darkmode
-![randomcolor](https://github.com/javadashtiani/randomcolor/assets/134012615/20bf1613-f917-41eb-816b-55c0cb8e04b6)
+![darkmode](https://github.com/javadashtiani/darkmode/assets/134012615/41e90342-145e-4fb9-9a6b-135e904f7eca)
 - 🔗 https://javadashtiani.github.io/darkmode/
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
